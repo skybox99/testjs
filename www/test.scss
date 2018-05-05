@@ -1,0 +1,10 @@
+$mainColor: #00ff22;
+
+.banner {
+    color: $mainColor;
+    font-size: 1.3rem;
+
+    &__author{
+        padding: 0.8rem;
+    }
+}
